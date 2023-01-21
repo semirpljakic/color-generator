@@ -1,1 +1,1 @@
-## Link: https://pljakic-semir-color-generator.netlify.app/
+## https://semir-pljakic-color-generator.netlify.app/
