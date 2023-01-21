@@ -24,7 +24,7 @@ const SingleColor = ({ rgb, weight, index, hexColor }) => {
         navigator.clipboard.writeText(hexValue);
       }}
     >
-      <p className='perececnt-value'>{weight}</p>
+      <p className='perececnt-value'>{weight}%</p>
       <p className='color-value'>{hex}</p>
       {alert && <p className='alert'>coppied to cliboard</p>}
     </article>
